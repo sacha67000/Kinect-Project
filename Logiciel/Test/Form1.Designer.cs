@@ -36,6 +36,8 @@
             this.BackButton = new System.Windows.Forms.Button();
             this.Option1 = new System.Windows.Forms.CheckBox();
             this.Option2 = new System.Windows.Forms.CheckBox();
+            this.CameraBox = new System.Windows.Forms.PictureBox();
+            ((System.ComponentModel.ISupportInitialize)(this.CameraBox)).BeginInit();
             this.SuspendLayout();
             // 
             // StartButton
@@ -127,6 +129,17 @@
             this.Option2.UseVisualStyleBackColor = true;
             this.Option2.Visible = false;
             // 
+            // CameraBox
+            // 
+            this.CameraBox.ErrorImage = null;
+            this.CameraBox.InitialImage = null;
+            this.CameraBox.Location = new System.Drawing.Point(300, 200);
+            this.CameraBox.Name = "CameraBox";
+            this.CameraBox.Size = new System.Drawing.Size(400, 400);
+            this.CameraBox.TabIndex = 8;
+            this.CameraBox.TabStop = false;
+            this.CameraBox.Visible = false;
+            // 
             // SmartTalk
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
@@ -134,6 +147,7 @@
             this.BackColor = System.Drawing.SystemColors.MenuHighlight;
             this.ClientSize = new System.Drawing.Size(982, 955);
             this.ControlBox = false;
+            this.Controls.Add(this.CameraBox);
             this.Controls.Add(this.Option2);
             this.Controls.Add(this.Option1);
             this.Controls.Add(this.BackButton);
@@ -147,6 +161,7 @@
             this.Name = "SmartTalk";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "SmartTalk";
+            ((System.ComponentModel.ISupportInitialize)(this.CameraBox)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -162,6 +177,7 @@
         private System.Windows.Forms.Button BackButton;
         private System.Windows.Forms.CheckBox Option1;
         private System.Windows.Forms.CheckBox Option2;
+        private System.Windows.Forms.PictureBox CameraBox;
     }
 }
 

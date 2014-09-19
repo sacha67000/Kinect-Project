@@ -6,3 +6,11 @@ c:\users\sacha\documents\visual studio 2010\Projects\Test\Test\obj\x86\Debug\Tes
 c:\users\sacha\documents\visual studio 2010\Projects\Test\Test\obj\x86\Debug\Test.pdb
 C:\Users\Sacha\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
 C:\Users\Sacha\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Debug\Test.SmartTalk.resources
+C:\Users\Sacha\Desktop\Kinect-Project\Logiciel\Test\obj\x86\Debug\Test.exe
+C:\Users\Sacha\Desktop\Kinect-Project\Logiciel\Test\obj\x86\Debug\Test.pdb
+C:\Users\Sacha\Desktop\Kinect-Project\Logiciel\Test\bin\Debug\Test.exe
+C:\Users\Sacha\Desktop\Kinect-Project\Logiciel\Test\bin\Debug\Test.pdb
+C:\Users\Sacha\Desktop\Kinect-Project\Logiciel\Test\obj\x86\Debug\Test.csprojResolveAssemblyReference.cache
+C:\Users\Sacha\Desktop\Kinect-Project\Logiciel\Test\obj\x86\Debug\Test.SmartTalk.resources
+C:\Users\Sacha\Desktop\Kinect-Project\Logiciel\Test\obj\x86\Debug\Test.Properties.Resources.resources
+C:\Users\Sacha\Desktop\Kinect-Project\Logiciel\Test\obj\x86\Debug\Test.csproj.GenerateResource.Cache
