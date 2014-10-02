@@ -14,7 +14,7 @@ Platform assembly: C:\Users\Sacha\Desktop\Unity\Kinect-Project\Project\Game_Data
 Loading C:\Users\Sacha\Desktop\Unity\Kinect-Project\Project\Game_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
 Platform assembly: C:\Users\Sacha\Desktop\Unity\Kinect-Project\Project\Game_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
 Loading C:\Users\Sacha\Desktop\Unity\Kinect-Project\Project\Game_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.048 seconds
+- Completed reload, in  0.058 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
 XInput1_3.dll not found.
