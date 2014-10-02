@@ -1,8 +1,0 @@
-C:\Users\Sacha\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Release\Test.Form1.resources
-C:\Users\Sacha\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Release\Test.Form2.resources
-C:\Users\Sacha\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Release\Test.Properties.Resources.resources
-C:\Users\Sacha\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Release\Test.csproj.GenerateResource.Cache
-C:\Users\Sacha\Documents\Visual Studio 2010\Projects\Test\Test\bin\Release\Test.exe
-C:\Users\Sacha\Documents\Visual Studio 2010\Projects\Test\Test\bin\Release\Test.pdb
-C:\Users\Sacha\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Release\Test.exe
-C:\Users\Sacha\Documents\Visual Studio 2010\Projects\Test\Test\obj\x86\Release\Test.pdb
