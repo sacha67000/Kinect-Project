@@ -1,7 +1,7 @@
 ﻿#pragma strict
 
 function Start () {
-	this.guiText.pixelOffset = Vector2((Screen.width * 0.50) - 90, 10);
+	this.guiText.pixelOffset = Vector2((Screen.width * 0.50) - 90, 0);
 }
 
 var couleurEntrer : Color = Color.green;
