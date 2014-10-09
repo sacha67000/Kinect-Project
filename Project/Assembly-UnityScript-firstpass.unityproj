@@ -54,6 +54,7 @@
      <Compile Include="Assets\Standard Assets\My_Scripts\ChangeTextQuit.js" />
      <Compile Include="Assets\Standard Assets\My_Scripts\ChangeTextStart.js" />
      <Compile Include="Assets\Standard Assets\My_Scripts\ChangeTextTitle.js" />
+     <Compile Include="Assets\Standard Assets\My_Scripts\End.js" />
      <Compile Include="Assets\Standard Assets\My_Scripts\Move.js" />
      <Compile Include="Assets\Standard Assets\Particles\Legacy Particles\TimedObjectDestructor.js" />
      <Compile Include="Assets\Standard Assets\Scripts\Camera Scripts\MouseOrbit.js" />
