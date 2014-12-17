@@ -12,10 +12,46 @@ Platform assembly: C:\Users\Sacha\Desktop\Project\Game_Data\Managed\Assembly-CSh
 Loading C:\Users\Sacha\Desktop\Project\Game_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
 Platform assembly: C:\Users\Sacha\Desktop\Project\Game_Data\Managed\Assembly-UnityScript-firstpass.dll (this message is harmless)
 Loading C:\Users\Sacha\Desktop\Project\Game_Data\Managed\Assembly-UnityScript-firstpass.dll into Unity Child Domain
-Platform assembly: C:\Users\Sacha\Desktop\Project\Game_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
-Loading C:\Users\Sacha\Desktop\Project\Game_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
-- Completed reload, in  0.042 seconds
+- Completed reload, in  0.049 seconds
 desktop: 1920x1080 60Hz; virtual: 1920x1080 at 0,0
 <RI> Initializing input.
-XInput1_3.dll not found.
 <RI> Input initialized.
+UnloadTime: 0.257431 ms
+Unloading 4 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 220.
+Total: 0.662822 ms (FindLiveObjects: 0.008552 ms CreateObjectMapping: 0.006414 ms MarkObjects: 0.075262 ms  DeleteObjects: 0.018387 ms)
+
+14.83703
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+Platform assembly: C:\Users\Sacha\Desktop\Project\Game_Data\Managed\Boo.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Sacha\Desktop\Project\Game_Data\Managed\UnityScript.Lang.dll (this message is harmless)
+Platform assembly: C:\Users\Sacha\Desktop\Project\Game_Data\Managed\System.Core.dll (this message is harmless)
+UnloadTime: 0.439173 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 242.
+Total: 0.635881 ms (FindLiveObjects: 0.008980 ms CreateObjectMapping: 0.006842 ms MarkObjects: 0.072696 ms  DeleteObjects: 0.014966 ms)
+
+20.56672
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.477659 ms
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 369.
+Total: 0.726110 ms (FindLiveObjects: 0.011973 ms CreateObjectMapping: 0.007697 ms MarkObjects: 0.094077 ms  DeleteObjects: 0.025229 ms)
+
+0
+ 
+(Filename: C:/BuildAgent/work/d63dfc6385190b60/artifacts/StandalonePlayerGenerated/UnityEngineDebug.cpp Line: 49)
+
+UnloadTime: 0.587559 ms
+Unloading 1 Unused Serialized files (Serialized files now loaded: 0 / Dirty serialized files: 0)
+
+Unloading 20 unused Assets to reduce memory usage. Loaded Objects now: 118.
+Total: 0.905286 ms (FindLiveObjects: 0.005131 ms CreateObjectMapping: 0.006414 ms MarkObjects: 0.087663 ms  DeleteObjects: 0.252299 ms)
+
